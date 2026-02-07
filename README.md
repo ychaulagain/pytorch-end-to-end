@@ -17,4 +17,20 @@ This repository documents my end-to-end learning journey of PyTorch, starting fr
 
 ## Run in Google Colab
 Each notebook is runnable in Colab:
+### Start Here
+- 00 – Introduction to PyTorch  
+  https://colab.research.google.com/github/ychaulagain/pytorch-end-to-end/blob/main/notebooks/00_intro_to_pytorch.ipynb
+## Learning Roadmap
+- [ ] 00 – Introduction to PyTorch
+- [ ] 01 – Tensors
+- [ ] 02 – Autograd
+- [ ] 03 – nn.Module and Networks
+- [ ] 04 – Training Loops
+- [ ] 05 – CNNs
+- [ ] 06 – RNNs & LSTMs
+- [ ] 07 – Transformers
+- [ ] 08 – Model Saving & Inference
+## Notes
+This repository is actively updated as I learn and experiment with PyTorch.
+
 
